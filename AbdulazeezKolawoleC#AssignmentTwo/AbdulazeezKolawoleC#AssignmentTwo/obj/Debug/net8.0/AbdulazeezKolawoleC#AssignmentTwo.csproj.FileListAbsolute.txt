@@ -1,0 +1,14 @@
+C:\Users\kolawole.abdulazeez\source\repos\AbdulazeezKolawoleC#AssignmentTwo\AbdulazeezKolawoleC#AssignmentTwo\bin\Debug\net8.0\AbdulazeezKolawoleC#AssignmentTwo.exe
+C:\Users\kolawole.abdulazeez\source\repos\AbdulazeezKolawoleC#AssignmentTwo\AbdulazeezKolawoleC#AssignmentTwo\bin\Debug\net8.0\AbdulazeezKolawoleC#AssignmentTwo.deps.json
+C:\Users\kolawole.abdulazeez\source\repos\AbdulazeezKolawoleC#AssignmentTwo\AbdulazeezKolawoleC#AssignmentTwo\bin\Debug\net8.0\AbdulazeezKolawoleC#AssignmentTwo.runtimeconfig.json
+C:\Users\kolawole.abdulazeez\source\repos\AbdulazeezKolawoleC#AssignmentTwo\AbdulazeezKolawoleC#AssignmentTwo\bin\Debug\net8.0\AbdulazeezKolawoleC#AssignmentTwo.dll
+C:\Users\kolawole.abdulazeez\source\repos\AbdulazeezKolawoleC#AssignmentTwo\AbdulazeezKolawoleC#AssignmentTwo\bin\Debug\net8.0\AbdulazeezKolawoleC#AssignmentTwo.pdb
+C:\Users\kolawole.abdulazeez\source\repos\AbdulazeezKolawoleC#AssignmentTwo\AbdulazeezKolawoleC#AssignmentTwo\obj\Debug\net8.0\AbdulazeezKolawoleC#AssignmentTwo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kolawole.abdulazeez\source\repos\AbdulazeezKolawoleC#AssignmentTwo\AbdulazeezKolawoleC#AssignmentTwo\obj\Debug\net8.0\AbdulazeezKolawoleC#AssignmentTwo.AssemblyInfoInputs.cache
+C:\Users\kolawole.abdulazeez\source\repos\AbdulazeezKolawoleC#AssignmentTwo\AbdulazeezKolawoleC#AssignmentTwo\obj\Debug\net8.0\AbdulazeezKolawoleC#AssignmentTwo.AssemblyInfo.cs
+C:\Users\kolawole.abdulazeez\source\repos\AbdulazeezKolawoleC#AssignmentTwo\AbdulazeezKolawoleC#AssignmentTwo\obj\Debug\net8.0\AbdulazeezKolawoleC#AssignmentTwo.csproj.CoreCompileInputs.cache
+C:\Users\kolawole.abdulazeez\source\repos\AbdulazeezKolawoleC#AssignmentTwo\AbdulazeezKolawoleC#AssignmentTwo\obj\Debug\net8.0\AbdulazeezKolawoleC#AssignmentTwo.dll
+C:\Users\kolawole.abdulazeez\source\repos\AbdulazeezKolawoleC#AssignmentTwo\AbdulazeezKolawoleC#AssignmentTwo\obj\Debug\net8.0\refint\AbdulazeezKolawoleC#AssignmentTwo.dll
+C:\Users\kolawole.abdulazeez\source\repos\AbdulazeezKolawoleC#AssignmentTwo\AbdulazeezKolawoleC#AssignmentTwo\obj\Debug\net8.0\AbdulazeezKolawoleC#AssignmentTwo.pdb
+C:\Users\kolawole.abdulazeez\source\repos\AbdulazeezKolawoleC#AssignmentTwo\AbdulazeezKolawoleC#AssignmentTwo\obj\Debug\net8.0\AbdulazeezKolawoleC#AssignmentTwo.genruntimeconfig.cache
+C:\Users\kolawole.abdulazeez\source\repos\AbdulazeezKolawoleC#AssignmentTwo\AbdulazeezKolawoleC#AssignmentTwo\obj\Debug\net8.0\ref\AbdulazeezKolawoleC#AssignmentTwo.dll
